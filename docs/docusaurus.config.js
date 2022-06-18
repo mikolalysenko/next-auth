@@ -30,7 +30,7 @@ module.exports = {
           position: "left",
         },
         {
-          to: "/tutorials",
+          to: "guides/overview",
           activeBasePath: "docs",
           label: "Guides",
           position: "left",

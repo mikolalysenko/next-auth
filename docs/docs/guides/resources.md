@@ -1,7 +1,16 @@
----
-id: fullstack
-title: Fullstack
----
+# Community Resources
+
+## Basic setup
+
+### [Securing pages and API routes](/tutorials/securing-pages-and-api-routes)
+
+- How to restrict access to pages and API routes.
+
+### [Usage with class components](/tutorials/usage-with-class-components)
+
+- How to use `useSession()` hook with class components.
+
+## Full-stack
 
 ### [Refresh Token Rotation](/tutorials/refresh-token-rotation)
 
@@ -28,3 +37,9 @@ title: Fullstack
 ### [Creating a database adapter](/tutorials/creating-a-database-adapter)
 
 - How to create a custom adapter, to use any database to fetch and store user / account data.
+
+## Testing
+
+### [Testing with Cypress](/tutorials/testing-with-cypress)
+
+- How to write tests using Cypress.
