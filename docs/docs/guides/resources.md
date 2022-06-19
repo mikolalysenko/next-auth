@@ -38,8 +38,8 @@
 
 - How to create a custom adapter, to use any database to fetch and store user / account data.
 
-## Testing
+### [Adding role based login to database session strategy](/tutorials/role-based-login-strategy)
 
 ### [Testing with Cypress](/tutorials/testing-with-cypress)
 
-- How to write tests using Cypress.
+- Implement a role based login system by adding a custom session callback.
